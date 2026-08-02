@@ -4,7 +4,7 @@ A full-stack MERN application (with Next.js powering the frontend) for tracking 
 personal reading collection — log books, mark reading progress, and filter by tag or status.
 
 ## Live Demo
-[Your deployed Vercel URL here]
+https://personal-book-manager-lemon.vercel.app/dashboard
 
 ## Tech Stack
 - **Frontend:** Next.js (App Router), React, Tailwind CSS
@@ -82,4 +82,4 @@ route.js - PATCH (update), DELETE (remove)
   explicit close button) matching the rest of the app's design.
 
 ## Author
-[KRISH KUMAR]
+KRISH KUMAR
