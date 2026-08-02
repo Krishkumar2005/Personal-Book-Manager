@@ -140,7 +140,7 @@ export default function BooksPage() {
                     />
                     <button
                         onClick={() => setShowAddForm(true)}
-                        className="bg-gray-900 text-white rounded-lg px-4 py-2 text-sm font-medium hover:bg-gray-800 transition"
+                        className="bg-gray-900 cursor-pointer text-white rounded-lg px-4 py-2 text-sm font-medium hover:bg-gray-800 transition"
                     >
                         + Add book
                     </button>
